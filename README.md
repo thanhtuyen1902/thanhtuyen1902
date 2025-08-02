@@ -15,3 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My name is Ma Thi Tuyen
+## About Me
+
+I'm a final-year student majoring in Information Technology, with a strong interest in Software Testing.
+
+I'm currently focusing on:
+- Manual testing: writing test cases, checklists, and performing UI/API testing
+- Automation testing: practicing Selenium WebDriver with Java and TestNG
+- Exploring internal business systems (HRM, ERP) and logic-based workflows
+
+## 🎯 Career Goals
+To become a QA Engineer specialized in both manual and automation testing.
+
+## 🛠️ Skills
+- **Testing:** write and execute testcases, Jira, Postman
+- **Automation:** Selenium (Java)
+- **Database:** SQL Server
+- **Others:** HTML, CSS, Git, MS Office
+
+
+## 📫 Contact
+- 📧 Email: mathituyen04@gmail.com
+- 🔗 LinkedIn: [Thanh Tuyến]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/thanhtuyenat/))
