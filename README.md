@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!!
 
 <!--
 **thanhtuyen1902/thanhtuyen1902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My name is Ma Thi Tuyen
-## About Me
+## 👋 About Me
 
 I'm a final-year student majoring in Information Technology, with a strong interest in Software Testing.
 
