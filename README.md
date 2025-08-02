@@ -28,8 +28,8 @@ I'm currently focusing on:
 To become a QA Engineer specialized in both manual and automation testing.
 
 ## 🛠️ Skills
-- **Testing:** write and execute testcases, Jira, Postman
-- **Automation:** Selenium (Java)
+- **Testing:** Test case design & execution, Jira, Postman
+- **Automation:** Selenium WebDriver (Java)
 - **Database:** SQL Server
 - **Others:** HTML, CSS, Git, MS Office
 
