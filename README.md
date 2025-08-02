@@ -36,4 +36,4 @@ To become a QA Engineer specialized in both manual and automation testing.
 
 ## 📫 Contact
 - 📧 Email: mathituyen04@gmail.com
-- 🔗 LinkedIn: [Thanh Tuyến]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/thanhtuyenat/))
+- 🔗 LinkedIn: [Thanh Tuyến](https://www.linkedin.com/in/thanhtuyenat/)
