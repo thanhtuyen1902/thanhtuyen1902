@@ -27,7 +27,7 @@ I'm currently focusing on:
 ## 🎯 Career Goals
 To become a QA Engineer specialized in both manual and automation testing.
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 - **Testing:** Test case design & execution, Jira, Postman
 - **Automation:** Selenium WebDriver (Java)
 - **Database:** SQL Server
